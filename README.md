@@ -23,9 +23,10 @@ Here are some ideas to get you started:
 
 🌶️ <strong> Web Development skills </strong>
 
-    • JavaScript (ES6), jQuery, Typescript, HTML5, CSS3
+    • JavaScript (ES6), jQuery, Typescript, HTML5, CSS, basic knowledge of PHP
     • Frontend: React, Vue.js, Redux, Handlebars.js
-    • Backend: Node.js, Express.js, Socket.IO Database: PostgreSQL
+    • Backend: Node.js, Express.js, Socket.IO 
+    • Database: PostgreSQL
     • Hosting: AWS (S3), Heroku
     
  💡 Currently focusing on advancing my overall programming skills, Typescript and Next.js
