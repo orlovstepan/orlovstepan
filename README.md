@@ -28,6 +28,8 @@ Here are some ideas to get you started:
     • Backend: Node.js, Express.js, Socket.IO Database: PostgreSQL
     • Hosting: AWS (S3), Heroku
     
+ 💡 Currently focusing on advancing my overall programming skills, Typescript and Next.js
+    
  🧑🏻‍💼 I got prior experience as a Business Development manager, which I see as a great advantage
  
  🪩 I am a big time traveler and reader, interested in new stuff, looking into building my very own start-up in future! 
