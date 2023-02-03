@@ -22,10 +22,11 @@ Here are some ideas to get you started:
 🧑🏻‍🎓 I learnt coding at Spiced Academy ✨ Started off with vanilla Javascript and built my way to Javascript frameworks within 12 weeks (Handlebars.js => Vue.js => React) 
 
 🌶️ <strong> Web Development skills </strong>
-    JavaScript (ES6), jQuery, Typescript, HTML5, CSS3
-    Frontend: React, Vue.js, Redux, Handlebars.js
-    Backend: Node.js, Express.js, Socket.IO Database: PostgreSQL
-    Hosting: AWS (S3), Heroku
+
+    • JavaScript (ES6), jQuery, Typescript, HTML5, CSS3
+    • Frontend: React, Vue.js, Redux, Handlebars.js
+    • Backend: Node.js, Express.js, Socket.IO Database: PostgreSQL
+    • Hosting: AWS (S3), Heroku
     
  🧑🏻‍💼 I got prior experience as a Business Development manager, which I see as a great advantage
  
