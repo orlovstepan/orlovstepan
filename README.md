@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🕵️‍♂️ Looking for a job as a Junior Frontend / Full Stack Developer. Mostly interested in React, but I stay open-minded and flexible. I love learning, so I am eager to see what's out there for me 👾
+🕵️‍♂️ Looking for a job as a Junior Frontend / Full Stack Developer. Mostly interested in React, but I stay open-minded and flexible. I love learning, so I am eager to see what's out there for me ⚡️
 
 🧑🏻‍💻 Recently I was taking care of <a href="https://falling-walls.com/"> Falling Walls website </a> as a web developer. Falling Walls is a unique international science platform for leaders from the worlds of science, business, politics, the arts and society.
 
@@ -36,3 +36,5 @@ Here are some ideas to get you started:
  🧑🏻‍💼 I got prior experience as a Business Development manager, which I see as a great advantage
  
  🪩 I am a big time traveler and reader, interested in new stuff, looking into building my very own start-up in future! 
+ 
+ ✉️ orlovst94@gmail.com
