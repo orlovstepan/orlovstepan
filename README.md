@@ -31,7 +31,7 @@ Here are some ideas to get you started:
     • Database: PostgreSQL
     • Hosting: AWS (S3), Heroku
     
- 💡 Currently focusing on advancing my overall programming skills, Typescript and Next.js
+ 💡 Currently focusing on advancing my overall programming skills, Typescript and exploring Next.js
     
  🧑🏻‍💼 I got prior experience as a Business Development manager, which I see as a great advantage
  
