@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 🧑🏻‍💻 Recently I was taking care of <a href="https://falling-walls.com/"> Falling Walls website </a> as a frontend developer. Falling Walls is a unique international science platform for leaders from the worlds of science, business, politics, the arts and society.
 
+🎒 Volunteering part-time at <a href="https://itstartline.com/">ITStartLine</a>, we're teaching Ukranian refugee teenagers to code and I help them build their website with React/NextJS. 
+
 🖥️ I create react-based websites and apps
 
 🧑🏻‍🎓 I learnt coding at Spiced Academy ✨ Started off with vanilla Javascript and built my way to Javascript frameworks within 12 weeks (Handlebars.js => Vue.js => React) 
