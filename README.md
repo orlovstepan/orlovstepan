@@ -15,13 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🕵️‍♂️ Looking for a job as a Frontend / Full Stack Developer. Mostly interested in React, but I stay open-minded and flexible. I love learning, so I am eager to see what's out there for me ⚡️
+📍 Currently at i22 Digital Agentur, making web a better place for everyone (i'm really into a11y)
 
-🧑🏻‍💻 Recently I was taking care of <a href="https://falling-walls.com/"> Falling Walls website </a> as a frontend developer. Falling Walls is a unique international science platform for leaders from the worlds of science, business, politics, the arts and society.
+🕵️‍♂️ Interested joining projects as a Frontend / Full Stack Developer. I mostly work with Vue and React, but I stay open-minded and flexible. I love learning, so I am eager to see what's out there for me ⚡️
+
+🧑🏻‍💻 Before I was taking care of <a href="https://falling-walls.com/"> Falling Walls website </a> as a frontend developer. Falling Walls is a unique international science platform for leaders from the worlds of science, business, politics, the arts and society.
 
 🎒 Volunteering part-time at <a href="https://itstartline.com/">ITStartLine</a>, we're teaching Ukranian refugee teenagers to code and I help them build their website with React/NextJS. 
 
-🖥️ I create react-based websites and apps
+🖥️ I create websites and web-apps and working on my own start-up
 
 🧑🏻‍🎓 I learnt coding at Spiced Academy ✨ Started off with vanilla Javascript and built my way to Javascript frameworks within 12 weeks (Handlebars.js => Vue.js => React) 
 
